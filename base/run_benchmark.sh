@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clona el repositorio con los benchmarks
-git clone https://github.com/TU_USUARIO/actividad_benchmark.git /benchmark
+git clone https://github.com/Andrs08/actividad_benchmark.git /benchmark
 
 # Entra al directorio clonado
 cd /benchmark/lenguajes
